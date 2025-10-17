@@ -32,4 +32,4 @@ Với **giao diện web trực quan** và **kiến trúc backend hiện đại**
 
 ---
 
-> 🧠 Dự án được xây dựng bằng **Golang**, theo mô hình **đa tầng (Controller – Service – Repository)**, đảm bảo tính tách biệt, dễ bảo trì và mở rộng.
+> 🧠 Dự án được xây dựng bằng **Golang** và **Reactjs**, theo mô hình **đa tầng (Controller – Service – Repository)**, đảm bảo tính tách biệt, dễ bảo trì và mở rộng.
