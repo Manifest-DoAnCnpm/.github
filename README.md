@@ -4,8 +4,6 @@
 
 ---
 
-# eParkKTX
-
 Trong môi trường ký túc xá đông đúc, việc quản lý xe ra vào, tìm chỗ đỗ, và giám sát an ninh thường gặp nhiều khó khăn.  
 **eParkKTX** ra đời nhằm giải quyết vấn đề này bằng một **nền tảng quản lý tập trung**, giúp:
 - Sinh viên dễ dàng **đăng ký và quản lý thông tin phương tiện**.
